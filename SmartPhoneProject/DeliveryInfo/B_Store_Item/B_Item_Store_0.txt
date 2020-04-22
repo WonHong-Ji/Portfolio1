@@ -1,0 +1,23 @@
+homeImage/deliveryImg/store/storeImg_1.png%엽기떡볶이%R%1%기본%기본%14000%R%5%매운맛 선택%착한맛%0%엽떡초보맛%0%덜매운맛%0%오리지널%0%매운맛%0%C%9%토핑 선택%우동사리%2000%라면사리%1000%치즈%3000%당면%2000%햄(7개)%1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%엽기오뎅%R%1%기본%기본%14000%R%5%매운맛 선택%착한맛%0%엽떡초보맛%0%덜매운맛%0%오리지널%0%매운맛%0%C%9%토핑 선택%우동사리 %2000%라면사리 %1000%치즈 %3000%당면 %2000%햄(7개) %1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%엽기반반%R%1%기본%기본%14000%R%5%매운맛 선택%착한맛%0%엽떡초보맛%0%덜매운맛%0%오리지널%0%매운맛%0%C%9%토핑 선택%우동사리 %2000%라면사리 %1000%치즈 %3000%당면 %2000%햄(7개) %1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%엽기닭볶음탕%R%1%기본%기본%14000%C%9%토핑 선택%우동사리 %2000%라면사리 %1000%치즈 %3000%당면 %2000%햄(7개) %1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%참숯 통닭발%R%1%기본%기본%14000%C%9%토핑 선택%우동사리 %2000%라면사리 %1000%치즈 %3000%당면 %2000%햄(7개) %1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%참숯 뼈없는 닭발%R%1%기본%기본%15000%C%9%토핑 선택%우동사리 %2000%라면사리 %1000%치즈 %3000%당면 %2000%햄(7개) %1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%국물 닭발%R%1%기본%기본%15000%C%9%토핑 선택%우동사리 %2000%라면사리 %1000%치즈 %3000%당면 %2000%햄(7개) %1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%참숯 닭날개%R%1%기본%기본%14000%C%9%토핑 선택%우동사리 %2000%라면사리 %1000%치즈 %3000%당면 %2000%햄(7개) %1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%오돌뼈%R%1%기본%기본%14000%C%9%토핑 선택%우동사리 %2000%라면사리 %1000%치즈 %3000%당면 %2000%햄(7개) %1000%메추리알(5개) %1000%계란(2개) %1500%베이컨 %3000%중국당면 %2500%end
+homeImage/deliveryImg/store/storeImg_1.png%엽도그%R%1%기본%기본%2000%end
+homeImage/deliveryImg/store/storeImg_1.png%누룽지탕%R%1%기본%기본%5000%end
+homeImage/deliveryImg/store/storeImg_1.png%오뎅탕%R%1%기본%기본%10000%end
+homeImage/deliveryImg/store/storeImg_1.png%계란야채죽%R%1%기본%기본%5000%end
+homeImage/deliveryImg/store/storeImg_1.png%주먹김밥%R%1%기본%기본%2000%end
+homeImage/deliveryImg/store/storeImg_1.png%계란찜%R%1%기본%기본%2000%end
+homeImage/deliveryImg/store/storeImg_1.png%만두 (4개)%R%1%기본%기본%2000%end
+homeImage/deliveryImg/store/storeImg_1.png%김말이 (3개)%R%1%기본%기본%2000%end
+homeImage/deliveryImg/store/storeImg_1.png%순대%R%1%기본%기본%3000%end
+homeImage/deliveryImg/store/storeImg_1.png%야채튀김 (1개)%R%1%기본%기본%1000%end
+homeImage/deliveryImg/store/storeImg_1.png%치즈스틱 (3개)%R%1%기본%기본%2000%end
+homeImage/deliveryImg/store/storeImg_1.png%단무지 (2개)%R%1%기본%기본%1000%end
+homeImage/deliveryImg/store/storeImg_1.png%공깃밥%R%1%기본%기본%1000%end
+homeImage/deliveryImg/store/storeImg_1.png%순살치킨 (5조각)%R%1%기본%기본%2000%end

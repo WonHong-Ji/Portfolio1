@@ -1,0 +1,6 @@
+homeImage/deliveryImg/store/storeImg_1.png%메리치즈%R%1%기본%레귤러%7000%end
+homeImage/deliveryImg/store/storeImg_1.png%메리딸기%R%2%기본%레귤러%6500%라지%7800%end
+homeImage/deliveryImg/store/storeImg_1.png%순수우유%R%2%기본%레귤러%4000%라지%4500%R%3%메뉴선택%딸기%0%딸기바나나%0%망고바나나%0%end
+homeImage/deliveryImg/store/storeImg_1.png%흑당버블티%R%1%기본%레귤러%4900%end
+homeImage/deliveryImg/store/storeImg_1.png%딸기생크림카스테라%R%1%기본%레귤러%6400%end
+homeImage/deliveryImg/store/storeImg_1.png%달고나라떼%R%1%기본%레귤러%4500%R%2%온도선택%ICE%0%HOT%0%end

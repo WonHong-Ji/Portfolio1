@@ -1,0 +1,6 @@
+homeImage/deliveryImg/store/storeImg_1.png%쿠키 프라페%R%1%기본%ICE%4400%end
+homeImage/deliveryImg/store/storeImg_1.png%메가 에이드%R%1%기본%ICE%4400%end
+homeImage/deliveryImg/store/storeImg_1.png%메가 초코라떼%R%2%기본%ICE%4300%HOT%4300%end
+homeImage/deliveryImg/store/storeImg_1.png%퐁크러쉬%R%1%기본%ICE%4400%R%6%메뉴선택%플레인%0%딸기%0%바나나%0%초코%500%녹차%500%커피%500%end
+homeImage/deliveryImg/store/storeImg_1.png%큐브라떼%R%1%기본%ICE%4400%end
+homeImage/deliveryImg/store/storeImg_1.png%청포도에이드%R%1%기본%ICE%4800%end
